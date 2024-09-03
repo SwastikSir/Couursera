@@ -1,1 +1,0 @@
-![](/C1-introduction-to-front-end-development/week4/q1-improve-webpage-with-bootstrap/ss1.png)
