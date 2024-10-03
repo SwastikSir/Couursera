@@ -1,4 +1,4 @@
-## Meta Front-End Developer Professional Certificate  ##
+## Meta Front-End Developer Professional Certificates  ##
 
 ![master_head](/master_head.png)
 
